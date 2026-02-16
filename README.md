@@ -86,3 +86,13 @@
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
+
+<h2>Currently</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-Contributions-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strengthening-DSA-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Strengthening-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strengthening-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
