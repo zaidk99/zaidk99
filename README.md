@@ -8,7 +8,7 @@
 
 <h2>Projects</h2>
 
-<h4>Rental Management System</h4>
+<h4>MRMS Rental Management System</h4>
 <p><b>Tech Stack:</b> React, Node.js, Express, PostgreSQL</p>
 <ul>
   <li>Built a production-grade system to manage tenants, properties, payments, and documents with secure REST APIs.</li>
