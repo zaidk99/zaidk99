@@ -1,5 +1,5 @@
-<h1 align = "center">Hi 👋, I am Zaid Khan  </h1>
-<p align = "center">I enjoy building real-world software</p>
+<h1 align="center">Hi 👋, I am Zaid Khan</h1>
+<p align="center">I enjoy building real-world software</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaidk99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,6 +18,7 @@
   <a href="https://rentalms.netlify.app/">Live Demo</a> |
   <a href="https://github.com/zaidk99/mrms">GitHub</a>
 </p>
+
 <h4>Triloop – Real-Time Chat Application</h4>
 <p>MERN, Socket.io</p>
 <ul>
@@ -28,6 +29,7 @@
   <a href="https://triloopchat.vercel.app/">Live Demo</a> |
   <a href="https://github.com/zaidk99/triloop_chat_app">GitHub</a>
 </p>
+
 <h4>Real-Time Sign Language Detection</h4>
 <p>Python, TensorFlow, MediaPipe</p>
 <ul>
@@ -51,12 +53,10 @@
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-
- 
 </p>
 
 <p>
@@ -68,15 +68,14 @@
 </p>
 
 <p>
-  <!-- Databases -->
+  <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-</p>
+
 <p>
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
