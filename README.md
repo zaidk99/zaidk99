@@ -2,8 +2,23 @@
 <p align="center">I enjoy building real-world software</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zaidk99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://currently-building"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <!-- Visitor Counter Badge -->
+  <img src="https://komarev.com" alt="Zaid's Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io"/></a>
+  <a href="https://currently-building"><img src="https://shields.io"/></a>
+</p>
+
+<!-- GitHub Automated Stats Section -->
+<p align="center">
+  <img src="https://vercel.app" alt="Zaid's GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
 <h2>Projects</h2>
@@ -15,8 +30,8 @@
   <li>Designed a normalized PostgreSQL schema with optimized JOIN queries and automated expiry notifications.</li>
 </ul>
 <p>
-  <a href="https://rentalms.netlify.app/">Live Demo</a> |
-  <a href="https://github.com/zaidk99/mrms">GitHub</a>
+  <a href="https://netlify.app">Live Demo</a> |
+  <a href="https://github.com">GitHub</a>
 </p>
 
 <h4>Triloop – Real-Time Chat Application</h4>
@@ -26,8 +41,8 @@
   <li>Designed optimized MongoDB schemas and implemented Trie-based predictive messaging and live friend request workflows.</li>
 </ul>
 <p>
-  <a href="https://triloopchat.vercel.app/">Live Demo</a> |
-  <a href="https://github.com/zaidk99/triloop_chat_app">GitHub</a>
+  <a href="https://vercel.app">Live Demo</a> |
+  <a href="https://github.com">GitHub</a>
 </p>
 
 <h4>Real-Time Sign Language Detection</h4>
@@ -36,65 +51,65 @@
   <li>Built a real-time gesture recognition system using LSTM trained on sequential landmark data.</li>
 </ul>
 <p>
-  <a href="https://github.com/zaidk99/SIGN-LANGUAGE-DETECTION">GitHub</a>
+  <a href="https://github.com">GitHub</a>
 </p>
 
 <h2>Tech Stack</h2>
 
 <p>
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 <p>
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 <p>
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 <p>
   <!-- Databases & Cloud -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 <p>
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 <p>
   <!-- ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 <h2>Currently</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-Contributions-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Strengthening-DSA-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
