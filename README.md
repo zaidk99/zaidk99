@@ -75,6 +75,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
 </p>
 <p>
   <!-- Tools -->
@@ -96,7 +97,5 @@
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Contributions-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Strengthening-DSA-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Strengthening-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Strengthening-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
