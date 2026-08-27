@@ -8,7 +8,7 @@
 
 <h2>Projects</h2>
 
-<h4>WorkBridge – Company Management Portal</h4>
+<h4>WorkBridge – Company Project Management Portal</h4>
 <p>TypeScript, Node.js, Express, PostgreSQL, AWS S3</p>
 <ul>
   <li>Built a role-based portal for admins, employees, and clients to manage service requests, projects, files, and conversations.</li>
