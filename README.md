@@ -59,6 +59,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  
 
 </p>
 <p>
@@ -77,6 +80,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
+
 <p>
   <!-- ML -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
