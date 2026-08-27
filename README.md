@@ -30,6 +30,16 @@
   <a href="https://github.com/zaidk99/triloop_chat_app">GitHub</a>
 </p>
 
+<h4>WorkBridge – Company Management Portal</h4>
+<p>TypeScript, Node.js, Express, PostgreSQL, AWS S3</p>
+<ul>
+  <li>Built a role-based portal for admins, employees, and clients to manage service requests, projects, files, and conversations.</li>
+  <li>Implemented JWT auth, transactional request-to-project conversion, S3 document storage with presigned URLs, and project-scoped messaging.</li>
+</ul>
+<p>
+  <a href="https://github.com/zaidk99/workbrigde">GitHub</a>
+</p>
+
 <h4>Real-Time Sign Language Detection</h4>
 <p>Python, TensorFlow, MediaPipe</p>
 <ul>
