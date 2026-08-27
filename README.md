@@ -8,6 +8,16 @@
 
 <h2>Projects</h2>
 
+<h4>WorkBridge – Company Management Portal</h4>
+<p>TypeScript, Node.js, Express, PostgreSQL, AWS S3</p>
+<ul>
+  <li>Built a role-based portal for admins, employees, and clients to manage service requests, projects, files, and conversations.</li>
+  <li>Implemented JWT auth, transactional request-to-project conversion, S3 document storage with presigned URLs, and project-scoped messaging.</li>
+</ul>
+<p>
+  <a href="https://github.com/zaidk99/workbrigde">GitHub</a>
+</p>
+
 <h4>MRMS Rental Management System</h4>
 <p>React, Node.js, Express, PostgreSQL</p>
 <ul>
@@ -30,16 +40,6 @@
   <a href="https://github.com/zaidk99/triloop_chat_app">GitHub</a>
 </p>
 
-<h4>WorkBridge – Company Management Portal</h4>
-<p>TypeScript, Node.js, Express, PostgreSQL, AWS S3</p>
-<ul>
-  <li>Built a role-based portal for admins, employees, and clients to manage service requests, projects, files, and conversations.</li>
-  <li>Implemented JWT auth, transactional request-to-project conversion, S3 document storage with presigned URLs, and project-scoped messaging.</li>
-</ul>
-<p>
-  <a href="https://github.com/zaidk99/workbrigde">GitHub</a>
-</p>
-
 <h4>Real-Time Sign Language Detection</h4>
 <p>Python, TensorFlow, MediaPipe</p>
 <ul>
@@ -48,7 +48,6 @@
 <p>
   <a href="https://github.com/zaidk99/SIGN-LANGUAGE-DETECTION">GitHub</a>
 </p>
-
 <h2>Tech Stack</h2>
 <p>
   <!-- Languages -->
